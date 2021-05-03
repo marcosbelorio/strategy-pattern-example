@@ -2,4 +2,4 @@
 Projeto de exemplo utilizando o pattern strategy com injeção de dependência
 
 ## ✅ Documentação
-[Clique aqui](https://dev.to/marcosbelorio)
+[Clique aqui](https://dev.to/marcosbelorio/design-pattern-strategy-111n)
